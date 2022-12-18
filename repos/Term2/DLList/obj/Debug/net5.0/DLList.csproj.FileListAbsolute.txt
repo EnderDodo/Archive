@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.exe
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.deps.json
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.runtimeconfig.json
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.dll
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\ref\DLList.dll
+C:\Users\Denis\source\repos\DLList\bin\Debug\net5.0\DLList.pdb
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.AssemblyInfo.cs
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.dll
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\ref\DLList.dll
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.pdb
+C:\Users\Denis\source\repos\DLList\obj\Debug\net5.0\DLList.genruntimeconfig.cache

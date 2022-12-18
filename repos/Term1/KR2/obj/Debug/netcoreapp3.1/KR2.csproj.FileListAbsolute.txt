@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.exe
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.deps.json
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.runtimeconfig.json
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.dll
+C:\Users\Denis\source\repos\KR2\bin\Debug\netcoreapp3.1\KR2.pdb
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.AssemblyInfo.cs
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.dll
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.pdb
+C:\Users\Denis\source\repos\KR2\obj\Debug\netcoreapp3.1\KR2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.exe
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.deps.json
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.json
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\Denis\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\Denis\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.exe
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.deps.json
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.runtimeconfig.json
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.dll
+C:\Users\Denis\source\repos\LeCensureApp\bin\Debug\netcoreapp3.1\LeCensureApp.pdb
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.AssemblyInfo.cs
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.dll
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.pdb
+C:\Users\Denis\source\repos\LeCensureApp\obj\Debug\netcoreapp3.1\LeCensureApp.genruntimeconfig.cache

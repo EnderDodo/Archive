@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.exe
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.deps.json
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.runtimeconfig.json
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.dll
+C:\Users\Denis\source\repos\HanoiTowers\bin\Debug\netcoreapp3.1\HanoiTowers.pdb
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.AssemblyInfo.cs
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.dll
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.pdb
+C:\Users\Denis\source\repos\HanoiTowers\obj\Debug\netcoreapp3.1\HanoiTowers.genruntimeconfig.cache

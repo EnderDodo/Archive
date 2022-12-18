@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkwjNoE62pD/UZgK20NsXHe3nfJm1RMv9Nle3V55neTkubF8/8io3zY6db41xxMCronjzdYo/jq52Fq+zOeKtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\HeapSort\\HeapSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

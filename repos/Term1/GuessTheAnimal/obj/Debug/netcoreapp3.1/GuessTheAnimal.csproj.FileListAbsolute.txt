@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.exe
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.deps.json
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.runtimeconfig.json
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.dll
+C:\Users\Denis\source\repos\GuessTheAnimal\bin\Debug\netcoreapp3.1\GuessTheAnimal.pdb
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.dll
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.pdb
+C:\Users\Denis\source\repos\GuessTheAnimal\obj\Debug\netcoreapp3.1\GuessTheAnimal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.exe
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.deps.json
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.runtimeconfig.json
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.dll
+C:\Users\Denis\source\repos\Lists1\bin\Debug\netcoreapp3.1\Lists1.pdb
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.dll
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.pdb
+C:\Users\Denis\source\repos\Lists1\obj\Debug\netcoreapp3.1\Lists1.genruntimeconfig.cache

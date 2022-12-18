@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\Denis\source\repos\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\Denis\source\repos\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

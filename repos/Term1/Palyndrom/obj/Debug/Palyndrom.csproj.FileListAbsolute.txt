@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\Palyndrom\bin\Debug\Palyndrom.exe.config
+C:\Users\Denis\source\repos\Palyndrom\bin\Debug\Palyndrom.exe
+C:\Users\Denis\source\repos\Palyndrom\bin\Debug\Palyndrom.pdb
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.Form1.resources
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.Properties.Resources.resources
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.exe
+C:\Users\Denis\source\repos\Palyndrom\obj\Debug\Palyndrom.pdb
